@@ -17,7 +17,7 @@ There will also be **ML**-related projects (at least I hope so).
 - ⚡ Fun fact: I like dinosaurs and astronomy.
 
 **My projects (at least those to which I have access as the creator)**:
-- Python project for the first semester: https://github.com/dmuman/Programa-oI_Projeto1_114
-- Python project for the second semester (still in work): https://github.com/dmuman/programming2Test
-- My personal MERN project (also still in work): https://github.com/dmuman/My-first-MERN-project
-- HTML/CSS/JS project - the Bejeweled game: https://github.com/dmuman/ITW-bejeweled-game
+- Python project for the first semester: [Click](https://github.com/dmuman/Programming-1-project)
+- Python project for the second semester (still in work): [Click](https://github.com/dmuman/Programming-2-project)
+- My personal MERN project (also still in work): [Click](https://github.com/dmuman/My-first-MERN-project)
+- HTML/CSS/JS project - the Bejeweled game: [Click](https://github.com/dmuman/ITW-bejeweled-game)
