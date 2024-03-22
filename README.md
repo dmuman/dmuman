@@ -21,3 +21,4 @@ There will also be **ML**-related projects (at least I hope so).
 - Python project for the second semester (still in work): [Click](https://github.com/dmuman/Programming-2-project)
 - My personal MERN project (also still in work): [Click](https://github.com/dmuman/My-first-MERN-project)
 - HTML/CSS/JS project - the Bejeweled game: [Click](https://github.com/dmuman/ITW-bejeweled-game)
+- My ML project using Python (empty for now): [Click](https://github.com/dmuman/My-first-ML-project)
