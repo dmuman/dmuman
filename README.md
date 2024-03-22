@@ -19,5 +19,5 @@ There will also be **ML**-related projects (at least I hope so).
 **My projects (at least those to which I have access as the creator)**:
 - Python project for the first semester: https://github.com/dmuman/Programa-oI_Projeto1_114
 - Python project for the second semester (still in work): https://github.com/dmuman/programming2Test
-- My personal MERN project: https://github.com/dmuman/My-first-MERN-project
+- My personal MERN project (also still in work): https://github.com/dmuman/My-first-MERN-project
 - HTML/CSS/JS project - the Bejeweled game: https://github.com/dmuman/ITW-bejeweled-game
