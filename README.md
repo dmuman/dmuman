@@ -12,8 +12,7 @@ There will also be **ML**-related projects (at least I hope so).
 - 🌱 Languages that I was trying to learn/currently learning: **C++, Java, Python, JavaScript (including frameworks), HTML and CSS, English, Portuguese**. 
 - 👯 I’m looking to collaborate on some **simple ML and MERN projects**.
 - 🤔 I’m looking for help with **ML**.
-- 📫 How to reach me: **@raccoon_dmytro** on the Instagram or via emails:
--- Personal.
+- 📫 How to reach me: **@raccoon_dmytro** on the Instagram or via emails: {personal: udmitro87@gmail.com, work: umanskyi.dmytro@gmail.com}.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I like dinosaurs and astronomy.
 
