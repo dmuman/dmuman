@@ -1,4 +1,4 @@
-**Hi everyone**, I'm a total newbie here (03/22/2024). 
+**Hi everyone**, I'm a beginner here. 
 I'm in my 4th year at the Ukrainian university - KNEU. And in my 3rd year at the Portuguese university - ULisboa FCUL. 
 I started coding around September 2023 - I was working on a bunch of group projects for my university.
 *Even though my first experience was at high school (almost 5 or 6 years ago) when my (best) friend was trying to teach me HTML and CSS. Near that time my uncle also was trying to teach me Java.*
