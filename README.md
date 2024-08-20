@@ -15,7 +15,7 @@ There will also be **ML**-related tutorial that I'm translating into the Ukraini
 - 🌱 Languages that I was trying to learn/currently learning: **C++, Java, Python (including some libraries for ML), JavaScript (including frameworks), HTML and CSS, English, Portuguese**. 
 - 👯 I’m looking to collaborate on some **simple ML projects**.
 - 🤔 I’m looking for help with **ML**.
-- 📫 How to reach me: **@raccoon_dmytro** on the Instagram or via emails: {personal: udmitro87@gmail.com, work: umanskyi.dmytro@gmail.com}.
+- 📫 How to reach me: **@raccoon_dmytro** on the Instagram or via email: umanskyi.dmytro@gmail.com.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I like dinosaurs and astronomy.
 
