@@ -1,32 +1,18 @@
-**Hi everyone**, I'm a beginner here. 
-I'm in my 4th year at the Ukrainian university - KNEU. And in my 3rd year at the Portuguese university - ULisboa FCUL. 
-I started coding around September 2023 - I was working on a bunch of group projects for my university.
-*Even though my first experience was at high school (almost 5 or 6 years ago) when my (best) friend was trying to teach me HTML and CSS. Near that time my uncle also was trying to teach me Java.*
-Up to now, I have done:
-* Two uni projects using **HTML/CSS and JavaScript**.
- 
-* Three uni projects in **Python**. (One is unfinished).
+# 💫 About Me:
+🔭 I’m currently working on my Machine Learning projects.<br>🌱 I’m currently learning ML concepts and various Python libraries.<br>👯 I’m looking to collaborate on some ML projects.<br>🤔 I’m looking for help with ML, especially NLP.<br>📫 How to reach me: @raccoon_dmytro on the Instagram or via email: umanskyi.dmytro@gmail.com.<br>😄 Pronouns: he/him.<br>⚡ Fun fact: I like dinosaurs and astronomy.
 
-* One uni project using the **MERN** stack.
 
-* Currently, I'm working on my **ML** projects (while learning it).
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@raccoon_dmytro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/dmytro-umanskyi-68111b235) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29064812) 
 
-* I was also trying to create something for myself. To learn the **MERN** stack. But understood that it was not for me. Maybe I'll get back to it soon.
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dmuman&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dmuman&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dmuman&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-> There will also be **ML**-related tutorials that I'm translating into the Ukrainian language.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dmuman&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-- 🔭 I’m currently working on my **Machine Learning** projects.
-- 🌱 I’m currently learning **ML** concepts and Python libraries.
-- 🌱 Languages that I was trying to learn/currently learning: **C++, Java, Python (including some libraries for ML), JavaScript (including frameworks), HTML and CSS, English, Portuguese**. 
-- 👯 I’m looking to collaborate on some **simple ML projects**.
-- 🤔 I’m looking for help with **ML**.
-- 📫 How to reach me: **@raccoon_dmytro** on the Instagram or via email: umanskyi.dmytro@gmail.com.
-- 😄 Pronouns: he/him.
-- ⚡ Fun fact: I like dinosaurs and astronomy.
-
-**My projects (at least those to which I have access as the creator)**:
-- Python project for the first semester: [Click](https://github.com/dmuman/Programming-1-project)
-- Python project for the second semester: [Click](https://github.com/dmuman/Programming-2-project)
-- My first MERN project (complete failure): [Click](https://github.com/dmuman/My-first-MERN-project)
-- HTML/CSS/JS project - the Bejeweled game: [Click](https://github.com/dmuman/ITW-bejeweled-game)
-- My ML project using Python: [Click](https://github.com/dmuman/My-first-ML-project)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
