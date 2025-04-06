@@ -22,9 +22,9 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) 
 
 # 📊 GitHub Stats:
-<-- ![](https://github-readme-stats.vercel.app/api?username=dmuman&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dmuman&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dmuman&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+<-- ![](https://github-readme-stats.vercel.app/api?username=dmuman&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
+<-- ![](https://github-readme-streak-stats.herokuapp.com/?user=dmuman&theme=default&hide_border=false)<br/> -->
+<-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dmuman&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 
 <p align="center">
