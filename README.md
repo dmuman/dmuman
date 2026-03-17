@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on my Machine Learning projects.<br>🌱 I’m currently learning ML concepts and various Python libraries.<br>👯 I’m looking to collaborate on some ML projects.<br>🤔 I’m looking for help with ML, especially NLP.<br>📫 How to reach me: @raccoon_dmytro on the Instagram or via email: umanskyi.dmytro@gmail.com.<br>😄 Pronouns: he/him.<br>⚡ Fun fact: I like dinosaurs and astronomy.
+🔭 I’m a Junior AI/ML Engineer focused on the software engineering side of AI—bringing generative ML models out of research and integrating them into real-world products.<br>
+🎓 Currently studying at FCUL after graduating with honors from KNEU.<br>
+🌱 I’m actively learning and experimenting with applied ML and Advanced Computer Vision (including 3D scene reconstruction).<br>
+🛠️ I build ML architectures with Python and handle the product integration side with JavaScript.<br>
+👯 Always open to discussing applied ML, NLP, or collaborating on side projects.<br>
+📫 How to reach me: @raccoon_dmytro on the Instagram or via email: umanskyi.dmytro@gmail.com.<br>
+😄 Pronouns: he/him.<br>
+⚡ Fun fact: I like dinosaurs and astronomy.
 
 
 ## 🌐 Socials:
